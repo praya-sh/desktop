@@ -1,0 +1,4 @@
+*.pt
+*.pth
+*.jpg
+plate_model.pt
